@@ -31,6 +31,13 @@
             <version>1.18.46</version>
             <scope>compile</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.telegram</groupId>
+            <artifactId>telegrambots</artifactId>
+            <version>6.8.0</version>
+        </dependency>
+
     </dependencies>
 
     <build>
